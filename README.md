@@ -1,7 +1,6 @@
-AUSTRALIAN IP IDENTIFIER: ULTIMATE EDITION
-<br>By Admiral SYN-ACKBar
+<h3>AUSTRALIAN IP IDENTIFIER: ULTIMATE EDITION</h3>
 
-Requirements: Python3 with Request module installed
+<i>Requirements: Python3 with Request module installed</i>
 
 Inspired by the most popular challenge of the Fall 2022 National Cyber League Team Competition, this script will identify all IP addresses possible in a number string and identify which ones are Australian. The script will also return the organization name registered to Australian IPs.
 
